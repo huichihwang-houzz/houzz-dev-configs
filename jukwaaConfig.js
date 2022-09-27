@@ -52,5 +52,8 @@ module.exports = {
         'design-editor',
         'pro-solutions-fallback',
         'visual-tools',
+
+        // test app
+        'tutorial',
     ]
 };
