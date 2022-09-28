@@ -26,7 +26,7 @@ module.exports = {
 
   system: {
     // graphouzzHost: 'http://www.houzzdev.com', //for local jukwaa graph
-    thriftHost: "stghouzz-nodejs.staging.houzz.net",
+    thriftHost: "c2-thrift-main.stghouzz.k8s-houzz.stghouzz.com",
     thriftPort: 8094,
     internalHostName: "www.stghouzz.com",
     supportedLocales: [
