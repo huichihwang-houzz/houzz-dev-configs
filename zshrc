@@ -124,7 +124,8 @@ export PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
 export PUPPETEER_EXECUTABLE_PATH=`which chromium`
 
 # alias command of logging kube through tsh
-alias login_k8s="KUBECONFIG=${HOME?}/teleport.yaml tsh login --proxy=teleport.k8s-mgmt.stghouzz.com:443 --auth=github"
+export KUBECONFIG=${HOME?}/teleport.yaml
+alias login_k8s="tsh login --proxy=teleport.k8s-mgmt.stghouzz.com:443 --auth=github"
 
 # nvm path
 export NVM_DIR="$HOME/.nvm"

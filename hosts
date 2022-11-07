@@ -9,31 +9,71 @@
 255.255.255.255	broadcasthost
 ::1             localhost
 
-127.0.0.1   www.houzzdev.com houzzdev.com pro.houzzdev.com sst.houzzdev.com st.houzzdev.com www.gwtest.com forums.gwhouzz.com gwhouzz.com www.gwhouzz.com api.houzzdev.com rq.houzzdev.com houzzdev.co.uk www.houzzdev.co.uk houzzdev.com.au www.houzzdev.com.au www.houzzdev.de www.houzzdev.ie www.houzzdev.com.sg www.houzzdev.se www.houzzdev.dk www.houzzdev.es www.houzzdev.it www.houzzdev.jp www.houzzdev.ru www.houzzdev.fr www.houzzdev.co.nz www.houzzdev.in
 
-127.0.0.1   houzzdev.com houzzdev.com gwtest.com forums.gwhouzz.com gwhouzz.com gwhouzz.com api.houzzdev.com rq.houzzdev.com houzzdev.co.uk houzzdev.co.uk houzzdev.com.au houzzdev.de houzzdev.ie houzzdev.com.sg houzzdev.se houzzdev.dk houzzdev.es houzzdev.it houzzdev.jp houzzdev.ru houzzdev.fr houzzdev.co.nz houzzdev.co.nz houzzdev.in
+127.0.0.1   sst.houzzdev.com st.houzzdev.com www.gwtest.com forums.gwhouzz.com gwhouzz.com www.gwhouzz.com api.houzzdev.com rq.houzzdev.com
+127.0.0.1   gwtest.com forums.gwhouzz.com gwhouzz.com gwhouzz.com api.houzzdev.com rq.houzzdev.com 
 
 # from https://cr.houzz.net/w/dev-introduction/bypass_http_auth/
-192.168.0.13 stghouzz.com www.stghouzz.com pro.stghouzz.com stghouzz.se www.stghouzz.se stghouzz.dk www.stghouzz.dk stghouzz.co.uk www.stghouzz.co.uk stghouzz.com.au www.stghouzz.com.au stghouzz.fr www.stghouzz.fr stghouzz.de www.stghouzz.de stghouzz.ru www.stghouzz.ru stghouzz.jp www.stghouzz.jp stghouzz.it www.stghouzz.it stghouzz.es www.stghouzz.es stghouzz.fi www.stghouzz.fi stghouzz.dk www.stghouzz.dk stghouzz.py www.stghouzz.pt stghouzz.ie www.stghouzz.ie stghouzz.com.sg www.stghouzz.com.sg stghouzz.co.nz www.stghouzz.co.nz stghouzz.in www.stghouzz.in stghouzz.at www.stghouzz.at stghouzz.pt www.stghouzz.pt stghouzz.nl www.stghouzz.nl
-192.168.0.13 houzz2.com www.houzz2.com pro.houzz2.com houzz2.se www.houzz2.se houzz2.dk www.houzz2.dk houzz2.co.uk www.houzz2.co.uk houzz2.com.au www.houzz2.com.au houzz2.fr www.houzz2.fr houzz2.de www.houzz2.de houzz2.ru www.houzz2.ru houzz2.jp www.houzz2.jp houzz2.it www.houzz2.it houzz2.es www.houzz2.es houzz2.fi www.houzz2.fi houzz2.dk www.houzz2.dk houzz2.py www.houzz2.pt houzz2.ie www.houzz2.ie houzz2.com.sg www.houzz2.com.sg houzz2.co.nz www.houzz2.co.nz houzz2.in www.houzz2.in houzz2.at www.houzz2.at houzz2.pt www.houzz2.pt houzz2.nl www.houzz2.nl
+# stghouzz
+192.168.0.13 stghouzz.com www.stghouzz.com pro.stghouzz.com
+192.168.0.13 stghouzz.com.au www.stghouzz.com.au pro.stghouzz.com.au
+192.168.0.13 stghouzz.com.sg www.stghouzz.com.sg pro.stghouzz.com.sg
+192.168.0.13 stghouzz.co.uk www.stghouzz.co.uk pro.stghouzz.co.uk 
+192.168.0.13 stghouzz.co.nz www.stghouzz.co.nz pro.stghouzz.co.nz
+192.168.0.13 stghouzz.de www.stghouzz.de pro.stghouzz.com.de
+192.168.0.13 stghouzz.fr www.stghouzz.fr pro.stghouzz.fr
+192.168.0.13 stghouzz.ru www.stghouzz.ru pro.stghouzz.ru
+192.168.0.13 stghouzz.jp www.stghouzz.jp pro.stghouzz.jp
+192.168.0.13 stghouzz.it www.stghouzz.it pro.stghouzz.it
+192.168.0.13 stghouzz.es www.stghouzz.es pro.stghouzz.es
+192.168.0.13 stghouzz.no www.stghouzz.no pro.stghouzz.no
+192.168.0.13 stghouzz.fi www.stghouzz.fi pro.stghouzz.fi
+192.168.0.13 stghouzz.se www.stghouzz.se pro.stghouzz.se
+192.168.0.13 stghouzz.ie www.stghouzz.ie pro.stghouzz.ie
+192.168.0.13 stghouzz.at www.stghouzz.at pro.stghouzz.at
+192.168.0.13 stghouzz.dk www.stghouzz.dk pro.stghouzz.dk
+192.168.0.13 stghouzz.in www.stghouzz.in pro.stghouzz.in
 
-151.101.24.93 stghouzz.co.uk www.stghouzz.co.uk
-151.101.24.93 stghouzz.com.au www.stghouzz.com.au
-151.101.24.93 stghouzz.de www.stghouzz.de
-151.101.24.93 stghouzz.fr www.stghouzz.fr
-151.101.24.93 stghouzz.ru www.stghouzz.ru
-151.101.24.93 stghouzz.jp www.stghouzz.jp
-151.101.24.93 stghouzz.it www.stghouzz.it
-151.101.24.93 stghouzz.es www.stghouzz.es
-151.101.24.93 stghouzz.no www.stghouzz.no
-151.101.24.93 stghouzz.fi www.stghouzz.fi
-151.101.24.93 stghouzz.se www.stghouzz.se
-151.101.24.93 stghouzz.ie www.stghouzz.ie
-151.101.24.93 stghouzz.co.nz www.stghouzz.co.nz
-151.101.24.93 stghouzz.com.sg www.stghouzz.com.sg
-151.101.24.93 stghouzz.at www.stghouzz.at
-151.101.24.93 stghouzz.dk www.stghouzz.dk
-151.101.24.93 stghouzz.in www.stghouzz.in
+# houzz2
+192.168.0.13 houzz2.com www.houzz2.com pro.houzz2.com
+192.168.0.13 houzz2.com.au www.houzz2.com.au pro.houzz2.com.au
+192.168.0.13 houzz2.com.sg www.houzz2.com.sg pro.houzz2.com.sg
+192.168.0.13 houzz2.co.uk www.houzz2.co.uk pro.houzz2.co.uk 
+192.168.0.13 houzz2.co.nz www.houzz2.co.nz pro.houzz2.co.nz
+192.168.0.13 houzz2.de www.houzz2.de pro.houzz2.com.de
+192.168.0.13 houzz2.fr www.houzz2.fr pro.houzz2.fr
+192.168.0.13 houzz2.ru www.houzz2.ru pro.houzz2.ru
+192.168.0.13 houzz2.jp www.houzz2.jp pro.houzz2.jp
+192.168.0.13 houzz2.it www.houzz2.it pro.houzz2.it
+192.168.0.13 houzz2.es www.houzz2.es pro.houzz2.es
+192.168.0.13 houzz2.no www.houzz2.no pro.houzz2.no
+192.168.0.13 houzz2.fi www.houzz2.fi pro.houzz2.fi
+192.168.0.13 houzz2.se www.houzz2.se pro.houzz2.se
+192.168.0.13 houzz2.ie www.houzz2.ie pro.houzz2.ie
+192.168.0.13 houzz2.at www.houzz2.at pro.houzz2.at
+192.168.0.13 houzz2.dk www.houzz2.dk pro.houzz2.dk
+192.168.0.13 houzz2.in www.houzz2.in pro.houzz2.in
+
+# houzzdev
+127.0.0.1 houzzdev.com www.houzzdev.com pro.houzzdev.com
+127.0.0.1 houzzdev.com.au www.houzzdev.com.au pro.houzzdev.com.au
+127.0.0.1 houzzdev.com.sg www.houzzdev.com.sg pro.houzzdev.com.sg
+127.0.0.1 houzzdev.co.uk www.houzzdev.co.uk pro.houzzdev.co.uk 
+127.0.0.1 houzzdev.co.nz www.houzzdev.co.nz pro.houzzdev.co.nz
+127.0.0.1 houzzdev.de www.houzzdev.de pro.houzzdev.com.de
+127.0.0.1 houzzdev.fr www.houzzdev.fr pro.houzzdev.fr
+127.0.0.1 houzzdev.ru www.houzzdev.ru pro.houzzdev.ru
+127.0.0.1 houzzdev.jp www.houzzdev.jp pro.houzzdev.jp
+127.0.0.1 houzzdev.it www.houzzdev.it pro.houzzdev.it
+127.0.0.1 houzzdev.es www.houzzdev.es pro.houzzdev.es
+127.0.0.1 houzzdev.no www.houzzdev.no pro.houzzdev.no
+127.0.0.1 houzzdev.fi www.houzzdev.fi pro.houzzdev.fi
+127.0.0.1 houzzdev.se www.houzzdev.se pro.houzzdev.se
+127.0.0.1 houzzdev.ie www.houzzdev.ie pro.houzzdev.ie
+127.0.0.1 houzzdev.at www.houzzdev.at pro.houzzdev.at
+127.0.0.1 houzzdev.dk www.houzzdev.dk pro.houzzdev.dk
+127.0.0.1 houzzdev.in www.houzzdev.in pro.houzzdev.in
+
 # Added by Docker Desktop
 # To allow the same kube context to work on the host and the container:
 127.0.0.1 kubernetes.docker.internal
